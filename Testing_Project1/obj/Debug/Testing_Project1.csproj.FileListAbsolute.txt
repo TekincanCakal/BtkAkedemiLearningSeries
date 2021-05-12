@@ -1,0 +1,15 @@
+C:\Users\ABRA\source\repos\BtkAkedemiLearningSeries\Testing_Project1\bin\Debug\Testing_Project1.exe.config
+C:\Users\ABRA\source\repos\BtkAkedemiLearningSeries\Testing_Project1\bin\Debug\Testing_Project1.exe
+C:\Users\ABRA\source\repos\BtkAkedemiLearningSeries\Testing_Project1\bin\Debug\Testing_Project1.pdb
+C:\Users\ABRA\source\repos\BtkAkedemiLearningSeries\Testing_Project1\bin\Debug\EntityFramework.dll
+C:\Users\ABRA\source\repos\BtkAkedemiLearningSeries\Testing_Project1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ABRA\source\repos\BtkAkedemiLearningSeries\Testing_Project1\bin\Debug\EntityFramework.xml
+C:\Users\ABRA\source\repos\BtkAkedemiLearningSeries\Testing_Project1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ABRA\source\repos\BtkAkedemiLearningSeries\Testing_Project1\obj\Debug\Testing_Project1.csprojAssemblyReference.cache
+C:\Users\ABRA\source\repos\BtkAkedemiLearningSeries\Testing_Project1\obj\Debug\Testing_Project1.Form1.resources
+C:\Users\ABRA\source\repos\BtkAkedemiLearningSeries\Testing_Project1\obj\Debug\Testing_Project1.Properties.Resources.resources
+C:\Users\ABRA\source\repos\BtkAkedemiLearningSeries\Testing_Project1\obj\Debug\Testing_Project1.csproj.GenerateResource.cache
+C:\Users\ABRA\source\repos\BtkAkedemiLearningSeries\Testing_Project1\obj\Debug\Testing_Project1.csproj.CoreCompileInputs.cache
+C:\Users\ABRA\source\repos\BtkAkedemiLearningSeries\Testing_Project1\obj\Debug\Testing_Project1.csproj.CopyComplete
+C:\Users\ABRA\source\repos\BtkAkedemiLearningSeries\Testing_Project1\obj\Debug\Testing_Project1.exe
+C:\Users\ABRA\source\repos\BtkAkedemiLearningSeries\Testing_Project1\obj\Debug\Testing_Project1.pdb

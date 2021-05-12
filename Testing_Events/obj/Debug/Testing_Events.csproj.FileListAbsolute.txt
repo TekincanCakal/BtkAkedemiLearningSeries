@@ -1,0 +1,6 @@
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_Events\bin\Debug\Testing_Events.exe.config
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_Events\bin\Debug\Testing_Events.exe
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_Events\bin\Debug\Testing_Events.pdb
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_Events\obj\Debug\Testing_Events.csproj.CoreCompileInputs.cache
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_Events\obj\Debug\Testing_Events.exe
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_Events\obj\Debug\Testing_Events.pdb

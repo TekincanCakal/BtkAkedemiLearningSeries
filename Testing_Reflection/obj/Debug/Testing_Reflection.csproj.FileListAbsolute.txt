@@ -1,0 +1,6 @@
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_Reflection\bin\Debug\Testing_Reflection.exe.config
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_Reflection\bin\Debug\Testing_Reflection.exe
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_Reflection\bin\Debug\Testing_Reflection.pdb
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_Reflection\obj\Debug\Testing_Reflection.csproj.CoreCompileInputs.cache
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_Reflection\obj\Debug\Testing_Reflection.exe
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_Reflection\obj\Debug\Testing_Reflection.pdb

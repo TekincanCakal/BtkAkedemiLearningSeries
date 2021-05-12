@@ -1,0 +1,10 @@
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_Ado.Net\bin\Debug\Testing_Ado.Net.exe.config
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_Ado.Net\bin\Debug\Testing_Ado.Net.exe
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_Ado.Net\bin\Debug\Testing_Ado.Net.pdb
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_Ado.Net\obj\Debug\Testing_Ado.Net.csprojAssemblyReference.cache
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_Ado.Net\obj\Debug\Testing_Ado.Net.Form1.resources
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_Ado.Net\obj\Debug\Testing_Ado.Net.Properties.Resources.resources
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_Ado.Net\obj\Debug\Testing_Ado.Net.csproj.GenerateResource.cache
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_Ado.Net\obj\Debug\Testing_Ado.Net.csproj.CoreCompileInputs.cache
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_Ado.Net\obj\Debug\Testing_Ado.Net.exe
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_Ado.Net\obj\Debug\Testing_Ado.Net.pdb

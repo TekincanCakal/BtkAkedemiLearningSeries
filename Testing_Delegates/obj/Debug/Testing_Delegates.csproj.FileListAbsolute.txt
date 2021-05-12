@@ -1,0 +1,7 @@
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_Delegates\bin\Debug\Testing_Delegates.exe.config
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_Delegates\bin\Debug\Testing_Delegates.exe
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_Delegates\bin\Debug\Testing_Delegates.pdb
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_Delegates\obj\Debug\Testing_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_Delegates\obj\Debug\Testing_Delegates.exe
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_Delegates\obj\Debug\Testing_Delegates.pdb
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_Delegates\obj\Debug\Testing_Delegates.csprojAssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_EntityFramework\bin\Debug\Testing_EntityFramework.exe.config
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_EntityFramework\bin\Debug\Testing_EntityFramework.exe
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_EntityFramework\bin\Debug\Testing_EntityFramework.pdb
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_EntityFramework\obj\Debug\Testing_EntityFramework.csprojAssemblyReference.cache
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_EntityFramework\obj\Debug\Testing_EntityFramework.Form1.resources
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_EntityFramework\obj\Debug\Testing_EntityFramework.Properties.Resources.resources
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_EntityFramework\obj\Debug\Testing_EntityFramework.csproj.GenerateResource.cache
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_EntityFramework\obj\Debug\Testing_EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_EntityFramework\obj\Debug\Testing_EntityFramework.csproj.CopyComplete
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_EntityFramework\obj\Debug\Testing_EntityFramework.exe
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_EntityFramework\obj\Debug\Testing_EntityFramework.pdb

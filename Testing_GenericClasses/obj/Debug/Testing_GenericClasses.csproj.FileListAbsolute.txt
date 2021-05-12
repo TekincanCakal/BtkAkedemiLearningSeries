@@ -1,0 +1,6 @@
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_GenericClasses\bin\Debug\Testing_GenericClasses.exe.config
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_GenericClasses\bin\Debug\Testing_GenericClasses.exe
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_GenericClasses\bin\Debug\Testing_GenericClasses.pdb
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_GenericClasses\obj\Debug\Testing_GenericClasses.csproj.CoreCompileInputs.cache
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_GenericClasses\obj\Debug\Testing_GenericClasses.exe
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_GenericClasses\obj\Debug\Testing_GenericClasses.pdb

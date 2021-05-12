@@ -1,0 +1,6 @@
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_ExceptionHandling\bin\Debug\Testing_ExceptionHandling.exe.config
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_ExceptionHandling\bin\Debug\Testing_ExceptionHandling.exe
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_ExceptionHandling\bin\Debug\Testing_ExceptionHandling.pdb
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_ExceptionHandling\obj\Debug\Testing_ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_ExceptionHandling\obj\Debug\Testing_ExceptionHandling.exe
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_ExceptionHandling\obj\Debug\Testing_ExceptionHandling.pdb

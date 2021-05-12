@@ -1,0 +1,6 @@
+C:\Users\ABRA\source\repos\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\ABRA\source\repos\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\ABRA\source\repos\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\ABRA\source\repos\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\ABRA\source\repos\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\ABRA\source\repos\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.pdb

@@ -1,0 +1,7 @@
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_Attributes\bin\Debug\Testing_Attributes.exe.config
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_Attributes\bin\Debug\Testing_Attributes.exe
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_Attributes\bin\Debug\Testing_Attributes.pdb
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_Attributes\obj\Debug\Testing_Attributes.csproj.CoreCompileInputs.cache
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_Attributes\obj\Debug\Testing_Attributes.exe
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_Attributes\obj\Debug\Testing_Attributes.pdb
+C:\Users\ABRA\source\repos\TestingAdo.Net\Testing_Attributes\obj\Debug\Testing_Attributes.csprojAssemblyReference.cache
